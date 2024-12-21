@@ -1,15 +1,18 @@
 # CodeClauseInternship_WeatherApp
 
 Intial Image Of Project
-![image](https://github.com/user-attachments/assets/19cee7dc-188c-4b6f-bcb6-7c6283877477)
+![image](https://github.com/user-attachments/assets/2712e8b0-54b4-400c-a64d-123194468190)
+
 
 After entering City Name in search box
 
-![image](https://github.com/user-attachments/assets/09b4fd36-054d-4692-82a9-9bab3d63f9e5)
+![image](https://github.com/user-attachments/assets/2036f38b-46ff-41f5-b509-cb5a85eaf172)
+
 
 For saving few City weather 
 
-![image](https://github.com/user-attachments/assets/100f699d-73fc-4e0d-8626-9a794f6bbb45)
+![image](https://github.com/user-attachments/assets/86e899a8-149c-4108-b44a-677b4670c5e2)
+
 
 
 
